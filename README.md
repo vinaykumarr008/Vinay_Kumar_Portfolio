@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" height="200" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="Coding" width="1000" height="100" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 <h1 align="center">Hi 👋, I'm Vinay Kumar R</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="500" height="300" src="https://i.redd.it/8drubzmvsfad1.gif">
