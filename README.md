@@ -1,17 +1,17 @@
 <img align="right" alt="Coding" width="1000" height="100" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 <h1 align="center">Hi 👋, I'm Vinay Kumar R</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 <img align="right" alt="Coding" width="500" height="300" src="https://i.redd.it/8drubzmvsfad1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarr008&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarr008" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Projects(Data Analytics)**
+- 🔭 I’m currently working on **personal and collaborative projects **
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning and upskilling in **tech and software development**
 
-- 💬 Ask me about **Python,SQL,Excel,Power BI**
+- 💬 Ask me about **Java, SQL, Web Development, or anything you're curious about**
 
 - 📫 How to reach me **vinaykumarr008@gmail.com**
 
